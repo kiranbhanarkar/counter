@@ -1,0 +1,32 @@
+body{
+    margin: 50px auto;
+    text-align: center;
+}
+  
+   .container{
+    margin: 50px auto;
+    border: 1px solid rgb(158, 144, 144);
+    border-radius: 10px;
+    width: 60%;
+    box-shadow: 20px 20px 50px 15px rgb(7, 4, 4);
+    background-color: aquamarine;
+  } 
+  
+
+  
+  h2{
+    width: 50px;
+    height: 50px;
+    margin: auto;
+    border-radius: 10px;
+    padding: 30px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(135, 175, 214);
+   
+  }
+  .btn{
+    background: rgb(73, 162, 203);
+    margin: 10px;
+    border-radius: 15px 5px 15px 5px;
+    height: 50px;
+  }
